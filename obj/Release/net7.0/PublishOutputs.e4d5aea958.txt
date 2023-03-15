@@ -1,0 +1,7 @@
+C:\Users\darla\Documents\Project\[azure]\Project.exe
+C:\Users\darla\Documents\Project\[azure]\appsettings.Development.json
+C:\Users\darla\Documents\Project\[azure]\appsettings.json
+C:\Users\darla\Documents\Project\[azure]\Project.dll
+C:\Users\darla\Documents\Project\[azure]\Project.deps.json
+C:\Users\darla\Documents\Project\[azure]\Project.runtimeconfig.json
+C:\Users\darla\Documents\Project\[azure]\Project.pdb
